@@ -11,7 +11,7 @@ html {
 
 
 .header {
-  height: 200px;
+  height: 220px;
   width: auto;
 }
 
@@ -28,4 +28,23 @@ html {
 .headercontainer {
   text-align: center;
   padding: 30px 5px;
+}
+
+.imagediv {
+  height: 230px;
+  width: 100%;
+}
+
+.content {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.textcontent {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.headercontent {
+  font-size: 25px;
 }
