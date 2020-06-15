@@ -48,3 +48,19 @@ html {
 .headercontent {
   font-size: 25px;
 }
+
+.onedrive {
+  margin-top: 30px;
+  background: url(img/picture8.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.onedrivecontent {
+  /* text-align: left; */
+  font-size: 35px;
+  margin-left: 45px;
+  padding: 130px 0;
+}
