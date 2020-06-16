@@ -1,12 +1,13 @@
 html {
   font-size: 13px;
-  padding: 20px;
-  margin: 10px 30px;
+  /* padding: 20px; */
+  /* margin: 10px 30px; */
 }
 
 .container {
   background-color: rgb(33, 33, 124);
   color: aliceblue;
+  margin: 20px 30px;
 }
 
 
@@ -36,7 +37,7 @@ html {
 }
 
 .content {
-  margin-top: 20px;
+  margin: 20px 30px;
   text-align: left;
 }
 
@@ -50,7 +51,8 @@ html {
 }
 
 .onedrive {
-  margin-top: 30px;
+  margin: 20px 30px;
+
   background: url(img/picture8.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -66,5 +68,25 @@ html {
 }
 
 .forwork {
-  margin-top: 50px;
+  margin: 40px 30px;
+
 }
+
+.footer {
+  margin-top: 20px;
+  background-color: grey;
+}
+
+.margincontainer {
+  margin: 20px 30px;
+}
+
+.footertitle {
+  font-size: 15px;
+  font-weight: 1000;
+}
+
+.footertext {
+  font-size: 13px;
+}
+

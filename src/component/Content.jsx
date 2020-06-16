@@ -9,6 +9,7 @@ import picture5 from '../img/picture5.jpg'
 
 function Content() {
     return (
+        
         <div className='content'>
         <Grid columns={4} divided inverted>
                 <Grid.Row color='white' textAlign='center'>

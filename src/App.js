@@ -5,6 +5,7 @@ import Team from './component/Team';
 import Content from './component/Content';
 import OneDrive from './component/OneDrive';
 import ForWork from './component/ForWork';
+import Footer from './component/Footer';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Content />
       <OneDrive />
       <ForWork />
+      <Footer />
     </>
   );
 }

@@ -29,6 +29,7 @@ const countryOptions = [
 
 function Navbar() {
     return (
+        <div className='margincontainer'>
         <Grid columns={3} divided inverted>
             <Grid.Row textAlign='center'>
                 
@@ -84,6 +85,7 @@ function Navbar() {
       
             </Grid.Row>
         </Grid>
+        </div>
     )
 }
 
